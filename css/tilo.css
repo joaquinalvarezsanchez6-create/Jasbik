@@ -1,21 +1,19 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 15px;
-    background-color: oklab(20.225% 0.05386 -0.08977);
-    color: oklab(68.943% 0.09657 -0.13033);
+  font-family: Arial, sans-serif;
+  margin: 15px;
+  background-color: oklab(20.225% 0.05386 -0.08977);
 }
-
 em {
-    font-family: Arial, sans-serif;
-    display: block;
-    margin: 10px;
+  font-family: Arial, sans-serif;
+  margin: 10px;
 }
-
 strong {
-    font-family: Arial, sans-serif;
-    margin: 20px;
+  font-family: Arial, sans-serif;
+  margin: 20px;
 }
-
 h1 {
-    color: hsl(0, 0%, 100%);
+  color: hsl(0, 0%, 100%);
+}
+body {
+  color: oklab(68.943% 0.09657 -0.13033);
 }
