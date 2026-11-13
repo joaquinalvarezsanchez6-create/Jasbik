@@ -2,6 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 15px;
   background-color: oklab(20.225% 0.05386 -0.08977);
+  color: oklch(100% 0.00011 271.152);
 }
 em {
   font-family: Arial, sans-serif;
@@ -12,5 +13,7 @@ strong {
   margin: 20px;
 }
 h1 {
-  color: hsl(0, 0%, 100%);
+  color: oklab(68.943% 0.09657 -0.13033);
+  font-family: Arial, sans-serif;
+  margin: 50px;
 }
